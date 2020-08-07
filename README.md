@@ -1,3 +1,3 @@
 # Demo
 
-## This is a placeholder
+### This is a smaller placeholder
